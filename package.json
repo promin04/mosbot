@@ -18,7 +18,7 @@
   "homepage": "https://github.com/promin04/mosbot#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "bootbot": "^1.0.14",
+    "bootbot":"github:promin04/bootbot#8143e385b2879af897fbf6133e94c84cd52345b7",
     "express": "^4.16.2"
   },
   "engines": {
